@@ -1,0 +1,34 @@
+{
+  "ev-analysis": {
+    "title": "Electric Vehicle Population Analysis",
+    "summary": "Excel dashboard for EV trends.",
+    "description": "Developed an Excel dashboard to analyze and visualize electric vehicle population trends, identifying key insights on adoption rates and regional patterns.",
+    "category": "viz",
+    "link": "https://github.com/PrakharPurwar12/excel-dashboard-Project",
+    "pdf": "ev-analysis-report.pdf"
+  },
+  "eda-survey": {
+    "title": "EDA Project using Survey Data",
+    "summary": "Python-based EDA with visuals.",
+    "description": "Conducted Exploratory Data Analysis on survey data using Python and Pandas, extracting meaningful patterns and summarizing findings with visualizations.",
+    "category": "viz",
+    "link": "https://github.com/PrakharPurwar12/python-github-repository",
+    "pdf": "eda-survey-report.pdf"
+  },
+  "bargain-bot": {
+    "title": "Bargain Hunter Bot",
+    "summary": "Python chatbot for deals.",
+    "description": "Created a chatbot using Python that fetches data from shopping websites to identify and present the best deals to users.",
+    "category": "nlp",
+    "link": "https://github.com/PrakharPurwar12/CHAT-BOT",
+    "pdf": "bargain-bot-report.pdf"
+  },
+  "property-tools": {
+    "title": "Property Investment Analysis Tools",
+    "summary": "Web tools for investment.",
+    "description": "Built a website using HTML, CSS, and JavaScript to provide tools for property investment analysis, enhancing user decision-making.",
+    "category": "web",
+    "link": "https://github.com/PrakharPurwar12/Property-investment-and-analysis-tool",
+    "pdf": "property-tools-report.pdf"
+  }
+}
